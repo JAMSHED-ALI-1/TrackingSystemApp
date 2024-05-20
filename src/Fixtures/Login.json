@@ -1,0 +1,13 @@
+{
+  "welcomeText": "Hi Welcome Back ! 👋",
+  "salutationText": "Hello again you have been missed!",
+  "emailLabel": "Please enter your email address",
+  "emailPlaceholder": "Enter your email address",
+  "passwordLabel": "Password",
+  "passwordPlaceholder": "Enter your password",
+  "checkboxLable": "Remenber Me",
+  "loginText": "Login",
+  "accoutinfoText": "Don't have an account ?",
+  "signupText": "SignUp",
+  "registerText": "Register"
+}

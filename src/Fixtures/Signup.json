@@ -1,0 +1,14 @@
+{
+  "createAccountText": "Create Account",
+  "salutationText": "Happy To Help You!",
+  "emailAddressLable": "Email address",
+  "emailAddressPlaceholder": "Enter your email address",
+  "moblileNumberLable": "Mobile Number",
+  "mobileNumberPlaceholder": "Enter your phone number",
+  "passwordLable": "Password",
+  "passwordPlaceholder": "Enter your password",
+  "t&cCheckbox": "I aggree to the terms and conditions",
+  "signupText": "Sign Up",
+  "accountLoginText": "Already have an account",
+  "loginText": "Login"
+}

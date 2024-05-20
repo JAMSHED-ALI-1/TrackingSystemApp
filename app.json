@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "owner": "qiktrack",
+    "name": "Track EG",
+    "slug": "QikBuk_app",
+    "version": "1.0.8",
+    "orientation": "portrait",
+    "icon": "./assets/qiktrack-logo-square.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/qiktrack-logo-square.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.qiktrack.QikBukApp"
+    },
+    "android": {
+      "permissions": ["INTERNET"],
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyB805CtESIXbdoCwEeScVPUj7S2TRZrpOE"
+        }
+      },
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/qiktrack-logo-square.png",
+        "backgroundColor": "#ffffff"
+      },
+      "googleServicesFile": "./google-services.json",
+      "useNextNotificationsApi": true,
+      "package": "com.qiktrack.QikBuk_app"
+    },
+    "web": {
+      "favicon": "./assets/qiktrack-logo-square.png"
+    },
+    // "extra": {
+    //   "eas": {
+    //     "projectId": "c3ce9adc-94f7-4686-96ca-4a0a86b845eb"
+    //   }
+    // },
+    "plugins": [
+      "@react-native-firebase/app",
+      "@react-native-firebase/messaging"
+    ]
+  }
+}
